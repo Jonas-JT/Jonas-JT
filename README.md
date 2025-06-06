@@ -21,8 +21,8 @@ My goal is to grow as a developer and, more importantly, as someone who truly en
 
 ### 📊 GitHub Stats
 
-![Dragon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TGK-Dragon&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TGK-Dragon&layout=compact&theme=radical)
+![Jonas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jonas-JT&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonas-JT&layout=compact&theme=radical)
 
 ---
 
